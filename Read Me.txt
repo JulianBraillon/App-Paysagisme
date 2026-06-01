@@ -8,11 +8,8 @@ COMMANDES POUR EXÉCUTER L'APPLICATION
 
 1. Ouvrir un terminal dans le dossier du projet
 
-2. Lancer la création de la BDD :
-   python init.py
-
-3. Lancer l'application :
-   python main.py
+2. Lancer l'application (ou juste double-cliquer dessus) :
+   - python main.py
 
 
 COMPTES PAR DÉFAUT
