@@ -1,0 +1,38 @@
+Salut baba !! 
+
+PAYSAGISME STUDIO - Application de gestion de devis
+======================================================
+
+COMMANDES POUR EXÉCUTER L'APPLICATION
+----------------------------------------
+
+1. Ouvrir un terminal dans le dossier du projet
+
+2. Lancer la création de la BDD :
+   python init.py
+
+3. Lancer l'application :
+   python main.py
+
+
+COMPTES PAR DÉFAUT
+---------------------
+
+ADMINISTRATEUR :
+   Email : admin@paysagisme.fr
+   Mot de passe : admin1234
+
+CLIENTS DE TEST :
+   jean.dupont@mail.fr    → jean1234
+   claire.martin@mail.fr  → claire1234
+   lucas.bernard@mail.fr  → lucas1234
+
+
+STRUCTURE DU PROJET
+----------------------
+
+projet_paysagisme/
+   ├── main.py          ← LANCER CE FICHIER
+   ├── models/          (client.py, devis.py)
+   ├── db/              (database.py)
+   └── data/            (base de données créée automatiquement)
